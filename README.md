@@ -1,1 +1,1 @@
-# Worm-Game
+# Worm-Game (instead of snake)
